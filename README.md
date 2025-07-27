@@ -6,7 +6,7 @@ A responsive and modern Job Portal website built using **HTML, CSS, JavaScript**
 
 ## 🌐 Live Demo
 
-> [🔗 🔗 View Repository on GitHub]](https://github.com/CharlesDavid-dev/job-portal-website)  
+> [🔗 🔗 View Repository on GitHub](https://github.com/CharlesDavid-dev/job-portal-website)  
 *(Add your Netlify or GitHub Pages link here if hosted)*
 
 ---
